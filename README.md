@@ -39,10 +39,12 @@ Artificial Intelligence Engineering Student · Future Founder · Tech Enthusiast
 ![OpenCV](https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 **Tools:**  
-![FastAPI](https://img.shields.io/badge/-FastAPI-black?logo=fastapi)
-![Streamlit](https://img.shields.io/badge/-Streamlit-black?logo=streamlit)
-![ROS](https://img.shields.io/badge/-ROS-black?logo=ros)
-![Gazebo](https://img.shields.io/badge/-Gazebo-black)
+
+
+![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![Streamlit](https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![ROS](https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white)
+![Gazebo](https://img.shields.io/badge/GAZEBO-8A2BE2?style=for-the-badge&logoColor=white)
 
 ---
 
