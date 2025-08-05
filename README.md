@@ -32,7 +32,7 @@ Artificial Intelligence Engineering Student · Future Founder · Tech Enthusiast
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **AI/ML Libraries:**  
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?logo=tensorflow)
+![TensorFlow](https://img.shields.io/badge/style=for-the-badge-TensorFlow-black?logo=tensorflow)
 ![PyTorch](https://img.shields.io/badge/-PyTorch-black?logo=pytorch)
 ![scikit-learn](https://img.shields.io/badge/-Scikit--Learn-black?logo=scikit-learn)
 ![Keras](https://img.shields.io/badge/-Keras-black?logo=keras)
