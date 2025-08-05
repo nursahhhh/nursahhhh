@@ -32,11 +32,11 @@ Artificial Intelligence Engineering Student · Future Founder · Tech Enthusiast
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **AI/ML Libraries:**  
-![TensorFlow](https://img.shields.io/badge/style=for-the-badge-TensorFlow-black?logo=tensorflow)
-![PyTorch](https://img.shields.io/badge/-PyTorch-black?logo=pytorch)
-![scikit-learn](https://img.shields.io/badge/-Scikit--Learn-black?logo=scikit-learn)
-![Keras](https://img.shields.io/badge/-Keras-black?logo=keras)
-![OpenCV](https://img.shields.io/badge/-OpenCV-black?logo=opencv)
+![TensorFlow](https://img.shields.io/badge/TENSORFLOW-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PYTORCH-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/SCIKIT--LEARN-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/KERAS-D00000?style=for-the-badge&logo=keras&logoColor=white)
+![OpenCV](https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
 **Tools:**  
 ![FastAPI](https://img.shields.io/badge/-FastAPI-black?logo=fastapi)
