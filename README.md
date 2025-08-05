@@ -26,10 +26,10 @@ Artificial Intelligence Engineering Student · Future Founder · Tech Enthusiast
 
 **Languages:**  
 
-!![Python](https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=python)
-![Java](https://img.shields.io/badge/-Java-0d1117?style=for-the-badge&logo=java)
-![C++](https://img.shields.io/badge/-C++-0d1117?style=for-the-badge&logo=c%2B%2B)
-![SQL](https://img.shields.io/badge/-SQL-0d1117?style=for-the-badge&logo=postgresql)
+![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **AI/ML Libraries:**  
 ![TensorFlow](https://img.shields.io/badge/-TensorFlow-black?logo=tensorflow)
