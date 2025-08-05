@@ -26,7 +26,7 @@ Artificial Intelligence Engineering Student · Future Founder · Tech Enthusiast
 
 **Languages:**  
 
-![Python](https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=python)
+!![Python](https://img.shields.io/badge/-Python-0d1117?style=for-the-badge&logo=python)
 ![Java](https://img.shields.io/badge/-Java-0d1117?style=for-the-badge&logo=java)
 ![C++](https://img.shields.io/badge/-C++-0d1117?style=for-the-badge&logo=c%2B%2B)
 ![SQL](https://img.shields.io/badge/-SQL-0d1117?style=for-the-badge&logo=postgresql)
