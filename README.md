@@ -1,4 +1,3 @@
-<h1 align="center">Hi, I'm Nurşah Satılmış 👋</h1>
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F58D&center=true&vCenter=true&width=500&lines=Hi+%F0%9F%91%8B+I'm+Nur%C5%9Fah+Sat%C4%B1lm%C4%B1%C5%9F;AI+Engineer+%7C+Future+Founder;Always+learning+and+building)](https://git.io/typing-svg)
 
 
