@@ -2,7 +2,7 @@
 
 
 <p align="center">
-Artificial Intelligence Engineering Student · Future Founder · Tech Enthusiast  
+Artificial Intelligence Engineering Student  · Tech Enthusiast  
 </p>
 
 <p align="center">
