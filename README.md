@@ -15,9 +15,8 @@ Artificial Intelligence Engineering Student  · Tech Enthusiast
 
 ### 👩‍💻 About Me
 
-🎓 3rd-year B.Sc. student in **Artificial Intelligence Engineering** at Hacettepe University  
+🎓 4th-year B.Sc. student in **Artificial Intelligence Engineering** at Hacettepe University  
 🚀 Passionate about AI, deep learning, and building innovative tech products  
-💡 Interned at **WiserSense** on AI projects involving predictive maintenance and sensor analytics  
 🌱 Currently exploring: **LLMs**, **KANs**, and **real-time object detection**
 
 ---
