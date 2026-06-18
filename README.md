@@ -1,7 +1,7 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F58D&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B+I'm+Nur%C5%9Fah+Sat%C4%B1lm%C4%B1%C5%9F;AI+Engineer+%7C+Agentic+Systems;LLMs+%C2%B7+Computer+Vision+%C2%B7+Deep+Learning;Always+learning%2C+always+building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=00F58D&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Nur%C5%9Fah+Sat%C4%B1lm%C4%B1%C5%9F;AI+Engineer+%7C+LLM+%26+Agentic+Systems;Computer+Vision+%C2%B7+Deep+Learning+%C2%B7+Multimodal+AI;Building+end-to-end+AI+systems)](https://git.io/typing-svg)
 
 <p align="center">
-  AI Engineering Graduate · LLM & Agentic Systems · Computer Vision · Time Series
+  AI Engineering Graduate · LLM & Agentic Systems · Computer Vision · Multimodal Learning
 </p>
 
 <p align="center">
@@ -14,10 +14,10 @@
 
 ### 👩‍💻 About Me
 
-🎓 B.Sc. **Artificial Intelligence Engineering** — Hacettepe University (GPA: 3.19 / 4.00)  
-🤖 Experienced in **LLM-based agent systems**, building Strategist-Executor architectures for real-world simulations  
-🔭 Also working on: **computer vision** (OBB detection, pose estimation) and **time series** (predictive maintenance)  
-🚀 Interested in end-to-end AI systems — from model to production  
+🎓 B.Sc. **Artificial Intelligence Engineering** — Hacettepe University  
+🤖 Interested in **LLM-based agents, multimodal AI, computer vision, and end-to-end AI systems**  
+🧠 Experienced in building **agentic workflows, deep learning pipelines, model evaluation, and AI-backed applications**  
+🚀 I enjoy turning models into usable systems — from experimentation to backend integration  
 
 ---
 
@@ -25,8 +25,8 @@
 
 **Languages:**  
 ![Python](https://img.shields.io/badge/PYTHON-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![Java](https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=for-the-badge&logo=postgresql&logoColor=white)
 
 **AI / ML:**  
@@ -36,10 +36,11 @@
 ![Keras](https://img.shields.io/badge/KERAS-D00000?style=for-the-badge&logo=keras&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OPENCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
 
-**LLM & Agentic:**  
+**LLM & Agentic Systems:**  
 ![Pydantic AI](https://img.shields.io/badge/PYDANTIC_AI-E92063?style=for-the-badge&logo=pydantic&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FASTAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/STREAMLIT-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/HUGGING_FACE-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 
 **Tools & Infra:**  
 ![Docker](https://img.shields.io/badge/DOCKER-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -51,58 +52,75 @@
 
 ### 💼 Experience
 
-**Agent Developer (Candidate Engineer) @ TUSAŞ** *(Nov 2025 – May 2026)*  
+**Agent Developer Candidate Engineer @ TUSAŞ** *(Nov 2025 – May 2026)*  
 > Turkish Aerospace Industries — Generative AI Team
 
-- Developed LLM-based agent systems for complex air combat simulations using a **Strategist-Executor architecture**
-- Built prompt templates, output schemas, and validation mechanisms for consistent simulation outputs
-- Analyzed agent decision errors (task flow, signal usage, branching logic) and iterated to improve system behavior
+- Contributed to LLM-based agent systems for complex air combat simulations using a **Strategist-Executor architecture**
+- Developed prompt templates, structured output schemas, and validation mechanisms for consistent simulation outputs
+- Analyzed agent execution errors such as task flow, signal usage, branching logic, and invalid job selection
+- Iteratively improved agent behavior through simulation feedback and schema-level controls
 - `Python` `Pydantic AI` `OpenRouter` `JSON Schema` `FastAPI` `Logfire`
 
 **Intern @ Üstünova Engineering & R&D** *(Aug 2025 – Sep 2025)*
 
-- Developed Python tooling to convert AABB-labeled datasets to **OBB format** for aerial object detection
-- Built a semi-automatic annotation tool with PyQt5 supporting YOLO-format output
-- Researched CUDA kernel optimization and TensorRT-based real-time inference
+- Developed Python tooling to convert AABB-labeled datasets into **OBB format** for aerial object detection
+- Built a semi-automatic annotation tool with PyQt5 supporting model selection, visualization, editing, and YOLO-format export
+- Researched CUDA kernels, memory transfers, and TensorRT-based real-time inference optimization
 - `Python` `PyQt5` `YOLO` `CUDA` `TensorRT` `OpenCV`
 
 **Volunteer Intern @ Genarion** *(Jul 2025 – Aug 2025)*
 
 - Built an LLM-powered voice interview prototype for HR use cases
-- Integrated **Whisper** (STT) and **ElevenLabs** (TTS) with prompt engineering for natural dialogue flow
+- Integrated **Whisper** for speech-to-text and **ElevenLabs** for text-to-speech responses
+- Applied prompt engineering to support a more natural real-time dialogue flow
 - `Python` `Whisper` `ElevenLabs` `Groq API` `Pydub` `DeepL`
 
 **AI Intern @ WiserSense Information Technologies** *(Jun 2024 – Aug 2024)*
 
-- Benchmarked ARIMA, LightGBM, XGBoost for HealthScore prediction — deployed best model (**90% accuracy**) via FastAPI + SQL
-- Built machine health diagnosis models (RandomForest, KAN) on vibration signals — **85% test accuracy**
-- `Python` `Scikit-learn` `XGBoost` `LightGBM` `FastAPI` `SQL`
+- Benchmarked ARIMA, SARIMA, LightGBM, CatBoost, and XGBoost models for HealthScore prediction
+- Prepared the best-performing solution for production using FastAPI and SQL infrastructure
+- Built machine health diagnosis models on vibration signals using RandomForest, XGBoost, and KAN
+- `Python` `Scikit-learn` `XGBoost` `LightGBM` `CatBoost` `FastAPI` `SQL`
 
 ---
 
 ### 🚀 Featured Projects
 
-#### 🏋️ [AI-Powered Virtual Personal Trainer](https://github.com/nursahhhh) *(Graduation Project)*
-End-to-end AI system for exercise form analysis and personalized feedback.  
-MediaPipe skeleton extraction → LSTM temporal classification → cosine similarity form scoring → LLM agent feedback via FastAPI.  
+#### 🏋️ AI-Powered Virtual Personal Trainer *(Graduation Project)*
+
+End-to-end AI system for exercise form analysis, movement classification, and personalized feedback.
+
+- Extracted 33 body keypoints using MediaPipe and trained an LSTM-based temporal movement classifier
+- Implemented cosine similarity-based form scoring and rule-based biomechanical checks using joint angles
+- Integrated analysis outputs into a FastAPI backend and LLM agent feedback pipeline
+
 `PyTorch` `LSTM` `MediaPipe` `OpenCV` `FastAPI` `LLM Agent`
 
-#### 🔬 [Super-Resolution Underwater Image Enhancement](https://colab.research.google.com/drive/1wLi0KGwH8gNHEg3aczKY2mGIqfFX5mu4?usp=sharing)
-Deep SRCNN architectures on UFO-120 dataset. Achieved **29.4 dB PSNR** and **0.75 SSIM**.  
-`PyTorch` `SRCNN` `Image Processing`
+---
 
-#### 🤖 [Lightweight RAG-based Q&A System](https://github.com/nursahhhh/Lightweight-RAG)
-Fully local RAG system — Wikipedia → MiniLM embeddings → ChromaDB → Phi-2 answers.  
-`RAG` `ChromaDB` `Phi-2` `FastAPI` `Streamlit`
+#### 🩺 Automated Diabetic Retinopathy Severity Grading
 
-#### 😶‍🌫️ Multi-modal Emotion Recognition
-Fused visual (ResNet/DenseNet) and textual (RoBERTa/BERT) streams on MELD dataset.  
-Learnable late-fusion + Focal Loss for class imbalance.  
-`PyTorch` `ResNet` `RoBERTa` `BERT`
+Medical image classification project for 5-class diabetic retinopathy grading from fundus photographs.
 
-#### 🏒 [NHL Shot Outcome Prediction](https://github.com/nursahhhh/NHL_Shot_Outcome_Prediction)
-Trained ML models on 160k+ shots. Best result with Random Forest.  
-`Scikit-learn` `Random Forest` `EDA`
+- Built an EfficientNet-B3 transfer learning pipeline on the Messidor-2 dataset
+- Compared Cross-Entropy, Class-Weighted CE, Focal Loss, Ordinal CE, and WeightedRandomSampler strategies
+- Achieved **0.8215 QWK**, **75.19% accuracy**, and **0.6920 Macro-F1**
+- Evaluated external generalization on IDRiD and analyzed model behavior using Grad-CAM and MC Dropout
+
+`PyTorch` `EfficientNet-B3` `OpenCV` `Scikit-learn` `Grad-CAM` `MC Dropout`
+
+---
+
+#### 😶‍🌫️ Multimodal Emotion Recognition on MELD
+
+Multimodal emotion recognition pipeline using text, visual, and audio modalities from conversational data.
+
+- Developed text, visual, and fusion components for MELD-based emotion classification
+- Used BERT/RoBERTa for text modeling and ResNet/Temporal Transformer for visual emotion recognition
+- Implemented class-wise weighted late fusion over text, audio, and visual logits
+- Analyzed modality-specific performance differences, class imbalance, and minority emotion challenges
+
+`PyTorch` `BERT` `RoBERTa` `ResNet` `Transformer Encoder` `Attention Pooling` `Late Fusion`
 
 ---
 
