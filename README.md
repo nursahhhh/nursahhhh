@@ -14,7 +14,7 @@
 
 ### 👩‍💻 About Me
 
-🎓 B.Sc. **Artificial Intelligence Engineering** — Hacettepe University (GPA: 3.12 / 4.00)  
+🎓 B.Sc. **Artificial Intelligence Engineering** — Hacettepe University (GPA: 3.19 / 4.00)  
 🤖 Experienced in **LLM-based agent systems**, building Strategist-Executor architectures for real-world simulations  
 🔭 Also working on: **computer vision** (OBB detection, pose estimation) and **time series** (predictive maintenance)  
 🚀 Interested in end-to-end AI systems — from model to production  
